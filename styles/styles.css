@@ -129,3 +129,12 @@ table {
 }
 
 /* ! starting............. code................................ */
+
+@font-face {
+  font-family: "deca";
+  src: url("../assets/fonts/lexenddeca.ttf.ttf");
+}
+
+body {
+  font-family: "deca" "Courier New", Courier, monospace;
+}
